@@ -40,7 +40,7 @@ body{
     font-weight: 500;
     position: relative;
     top: 0;
-    animation: slide 6s steps(4) infinite;
+   /*  animation: slide 6s steps(4) infinite; */
 }
 .dynamic-text2 li{
     list-style: none;
@@ -103,9 +103,15 @@ body{
 #image1{
     height: 400px;
     width: 300px;
-    position: absolute;
-    top:500px;
+    /* position: absolute;
+    top:500px; */
 }
+/* #boxed{
+ background-color: green;
+ width: 80px;
+ margin-bottom: -30px;
+ height: 30px;   
+} */
 
 
 
